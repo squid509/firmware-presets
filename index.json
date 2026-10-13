@@ -3207,13 +3207,13 @@
     },
     {
       "fullPath": "presets/2026.6/osd/Squid509 OSD F5Split.txt",
-      "hash": "5b98a7d2dbc2b6433e740de21c658fb46345fd3d9b842805b59638a3639b263f",
+      "hash": "a67fbda9aa697d47f4556bbe0a0fa7102ee6cafaca0d9eeb53f0fb4f075a851d",
       "title": "Squid509 OSD F5Split",
       "firmware_version": [
         "2026.6"
       ],
       "category": "OSD",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "Squid509",
         "OSD"
