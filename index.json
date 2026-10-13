@@ -3334,6 +3334,22 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/2026.6/rates/Squid509S5splt.txt",
+      "hash": "d4059cb5a077db8758c31b419f7f7a95789bbad2fdab29a5cbd45e4a6cf7063b",
+      "title": "Squid509 Rates F5Split",
+      "firmware_version": [
+        "2026.6"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Squid509",
+        "rates"
+      ],
+      "author": "Squid509",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/2026.6/rc_link/crsf/crsf_50hz.txt",
       "hash": "10e8c911fa866924ab7d7e0f3a5c32e9611732c3221268b99e8936d78e6167c9",
       "title": "CRSF - Fixed 50Hz",
